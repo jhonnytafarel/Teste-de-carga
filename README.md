@@ -1,4 +1,4 @@
-Objetivo: Este código Python realiza requisições HTTP simultâneas para um determinada URL usando a biblioteca requests e o módulo threading.
+Objetivo: Este código Python realiza requisições HTTP simultâneas para uma determinada URL usando a biblioteca requests e o módulo threading.
 
 Assim conseguimos fazer um teste de carga no servidor simulando usuarios simultaneos.
 
